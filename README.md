@@ -6,3 +6,4 @@
 # mudança 3
 
 # mudança 4, pull
+# 5, fetch
